@@ -3,12 +3,12 @@
 <!--
 **Monaa-cmd/Monaa-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi, I'm Mona Huang! I'm a passionate developer with a knack for creating efficient, scalable solutions to solve problem and imrpove on current approaches. My journey in tech is currently focused on data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Mona Huang! I'm a passionate about creating efficient, scalable solutions to solve problem and imrpove on current approaches. My journey in tech is currently focused on data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
 - 🌱 I’m currently exploring **Data Visualization** and **Machine Learning**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 💬 Ask me about **Python**, **JavaScript**, and **web automation**.
+- 💬 Ask me about **Python** and **R**.
 - 📫 How to reach me: yu.huang.2333@gmail.com
 - ⚡ Fun fact: I am big fan of anime and ... birds!
 
@@ -16,7 +16,7 @@ Hi, I'm Mona Huang! I'm a passionate developer with a knack for creating efficie
 
 I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
 
-- 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+- 🗒️ [Data Visualization with Python](https://python_xxx) - Exploring the power of data visualization using Python libraries.
 
 ## 📫 Connect with Me
 
