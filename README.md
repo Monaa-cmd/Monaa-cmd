@@ -13,4 +13,4 @@ I'm passionate about creating efficient, scalable solutions to solve problems an
 ⚡ Fun fact: I'm a big fan of anime and... birds! 🐦
 
 🛠️ Tools I Use
-<p align="left"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="R" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" alt="R" width="30" height="30"/> <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/> 
